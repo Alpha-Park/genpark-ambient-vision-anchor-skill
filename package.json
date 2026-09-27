@@ -1,0 +1,15 @@
+{
+  "name": "@alphapark/genpark-ambient-vision-anchor-skill",
+  "version": "1.0.0",
+  "description": "GenPark AI Agent Skill - Multimodal ambient visual anchoring connecting physical device perception (smart glasses, camera feeds) with GenPark digital agent services.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "Apache-2.0",
+  "keywords": [
+    "genpark",
+    "personal-agent",
+    "intent-anticipation",
+    "episodic-memory",
+    "mcp"
+  ]
+}
